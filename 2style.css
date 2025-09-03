@@ -1,0 +1,46 @@
+body {
+  background-image: url('cruise-do-dont.webp');
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.692);
+}
+
+.p1{
+    font-size: 20px;
+}
+
+.p2{
+font-size: 20px;
+}
+.p3{
+font-size: 20px;
+}
+
+.p4{
+font-size: 20px;
+}
+
+
+h1 {
+  font-size: 28px;
+  text-align: center;
+  color: darkblue;
+}
+
+h2 {
+  font-size: 20px;
+  color: rgb(0, 38, 255);
+}
+
+p {
+  font-size: 20px;
+}

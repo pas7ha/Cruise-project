@@ -1,0 +1,82 @@
+body {
+    background-image: url("Aroya-Cruises-2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center 60%;
+    background-attachment: fixed;
+  }
+.btn1 {
+  position: absolute;
+  top: 36%; 
+  left: 48%;              
+  transform: translate(-50%, -50%) rotate(-2deg); 
+  background: linear-gradient(90deg, #00c3ff, #002fff, #00dfff, #001f7f); 
+  color: white;
+  border: none;
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 45px;
+  padding: 10px 20px;       
+  font-size: 14px;           
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p1{
+    font-family: 'Roboto';
+    position: absolute;
+    top: 20%;
+    left: 41%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: rgb(255, 230, 0);
+    font-weight: bold;
+
+}
+.p2{
+    font-family: 'Roboto';
+    position: absolute;
+    top: 20%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.p3{
+    font-family: 'Roboto';
+    position: absolute;
+    top: 25%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.img1 {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  width: 100px;
+  height: 100px;
+}
+.btn2 {
+  position: absolute;
+  right: 20px;   /* sağdan məsafə */
+  bottom: 20px;  /* aşağıdan məsafə */
+  background: linear-gradient(90deg, #00c3ff, #0066ff, #0033cc); /* dəniz rəngi */
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 8px 16px;  /* kiçik ölçü */
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+
